@@ -19,5 +19,6 @@
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/support322)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=B4068E)](https://www.vk.com/mazion))
+[![VK](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/support322)
 
 ---
