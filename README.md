@@ -13,7 +13,7 @@
 - Техники тест-дизайна
 - Клиент-серверная архитектура (HTTPS, request, response)
 - Разработка тестовой документации (тест-кейсы, чек-листы)
-- REST, SOAP API (XML, JSON)
+- REST, SOAP API (JSON, XML)
 - Английский (уровень Pre-Intermediate)
 - Желание развиваться в QA Auto
 
