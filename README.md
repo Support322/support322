@@ -6,7 +6,7 @@
 ---
 ### 🛠️ Навыки и инструменты:
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://atlassian.com/software/jira)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]([https://atlassian.com/software/jira](https://www.atlassian.com/software/jira))
 ---
 
 
