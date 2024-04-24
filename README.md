@@ -7,7 +7,6 @@
 ### 🛠️ Навыки и инструменты:
 
 ![Devtools](https://img.shields.io/badge/Devtools-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ---
 
