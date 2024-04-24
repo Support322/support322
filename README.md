@@ -29,6 +29,7 @@
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Test-it](https://img.shields.io/badge/Test_it-0052CC?style=for-the-badge&logo=hashnode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
