@@ -12,7 +12,7 @@
 
 ### 📁 Тестовая документация:
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ---
 
 ### 💾 Работа с данными:
