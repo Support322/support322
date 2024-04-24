@@ -6,11 +6,13 @@
 ---
 ### 🛠️ Навыки и инструменты:
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+![Devtools]https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Devtools&logoColor=white
 ---
 
 
 ### 📁 Тестовая документация:
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 ---
 
 ### 💾 Работа с данными:
