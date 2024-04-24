@@ -22,6 +22,7 @@
 
 ![Devtools](https://img.shields.io/badge/Devtools-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-0052CC?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
